@@ -1,0 +1,4 @@
+bashCopy code
+@echo off
+shutdown.exe -s -t 30 -c "Testing"
+
