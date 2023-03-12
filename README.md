@@ -26,4 +26,4 @@ The Batch Scripting Programs provided here are in .txt format. To use them, you 
 
 It is also important to note that these programs are basic and may not work as intended on all systems. Additionally, they may not be compatible with all versions of Windows. Therefore, it is recommended that you use caution and thoroughly research each program before using it.
 
-### Lastly, please note that I am not responsible for any data loss or other issues that may arise from the use of these programs. Use them at your own risk and with caution. It is recommended that you back up your important data before running any potentially dangerous programs.
+## Lastly, please note that I am not responsible for any data loss or other issues that may arise from the use of these programs. Use them at your own risk and with caution. It is recommended that you back up your important data before running any potentially dangerous programs.
